@@ -1,5 +1,5 @@
 # Demo Images
-![Log In](src\assets\ProjectSS\Login.png)
+![Log In](https://github.com/AishwaryaShimpi/Smartdings-assesment/src/assets/ProjectSS/Login.png)
 ![Sign Up](src\assets\ProjectSS\SignUP)
 ![Dashboard](src\assets\ProjectSS\DashBoard.png)
 ![Create Project](src\assets\ProjectSS\ProjectSummary.png)
