@@ -1,12 +1,10 @@
 # Demo Images
-![Log In](https://github.com/AishwaryaShimpi/Smartdings-assesment/src/assets/ProjectSS/Login.png)
-![Sign Up](src\assets\ProjectSS\SignUP)
-![Dashboard](src\assets\ProjectSS\DashBoard.png)
-![Create Project](src\assets\ProjectSS\ProjectSummary.png)
-![Project Summary](src\assets\ProjectSS\CreateProject.png)
+![Login](https://github.com/AishwaryaShimpi/Smartdings-assesment/assets/93246547/45cec814-7937-40ee-aab3-bd904b8a9721)
+![SignUP](https://github.com/AishwaryaShimpi/Smartdings-assesment/assets/93246547/b9b6453d-5353-4616-89dd-6a1b51c84689)
+![CreateProject](https://github.com/AishwaryaShimpi/Smartdings-assesment/assets/93246547/c246aff4-9bd5-477a-8ad9-21baf3db864c)
 
-
-
+![DashBoard](https://github.com/AishwaryaShimpi/Smartdings-assesment/assets/93246547/6cead75d-e11f-444a-b5b5-1fdc53611d30)
+![ProjectSummary](https://github.com/AishwaryaShimpi/Smartdings-assesment/assets/93246547/d79f05b9-846e-441d-839c-45303d5c05fc)
 
 # Getting Started with Create React App
 
